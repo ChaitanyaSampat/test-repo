@@ -1,0 +1,10 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 1EB3-2588
+
+ Directory of F:\Python clg\CSD
+
+05-10-2020  19:51    <DIR>          .
+05-10-2020  19:51    <DIR>          ..
+05-10-2020  19:51                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  65,538,449,408 bytes free
